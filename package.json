@@ -1,0 +1,25 @@
+{
+  "name": "fibonacci-heap",
+  "version": "1.0.0",
+  "description": "https://en.wikipedia.org/wiki/Fibonacci_heap",
+  "main": "libs/FibonacciHeap.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julesferreira/fibonacci-heap.git"
+  },
+  "keywords": [
+    "fibonacci"
+  ],
+  "author": "Jules Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julesferreira/fibonacci-heap/issues"
+  },
+  "homepage": "https://github.com/julesferreira/fibonacci-heap#readme",
+  "devDependencies": {
+    "jest-cli": "^0.8.2"
+  }
+}
